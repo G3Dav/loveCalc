@@ -1,0 +1,55 @@
+body {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fb83fa+0,e93cec+100;Pink+3D+%232 */
+  background: rgb(251,131,250); /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(251,131,250,1) 0%, rgba(233,60,236,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top,  rgba(251,131,250,1) 0%,rgba(233,60,236,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom,  rgba(251,131,250,1) 0%,rgba(233,60,236,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fb83fa', endColorstr='#e93cec',GradientType=0 ); /* IE6-9 */
+  height: 100%;
+      margin: 0;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.container {
+  margin-top: 20vh;
+}
+
+.siteheader {
+  margin-top: 3rem;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+input {
+  border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border: 1px solid #FFC2DC;
+	outline: none;
+  font-weight: bold;
+	padding: 5px 8px 5px 8px;
+	box-shadow: inset 1px 1px 4px #FFD5E7;
+	-moz-box-shadow: inset 1px 1px 4px #FFD5E7;
+	-webkit-box-shadow: inset 1px 1px 4px #FFD5E7;
+	background: #FFEFF6;
+}
+
+input[type=button]{
+	background: #EB3B88;
+	border: 1px solid #C94A81;
+	padding: 5px 15px 5px 15px;
+	color: #FFCBE2;
+	box-shadow: inset -1px -1px 3px #FF62A7;
+	-moz-box-shadow: inset -1px -1px 3px #FF62A7;
+	-webkit-box-shadow: inset -1px -1px 3px #FF62A7;
+	border-radius: 3px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	font-weight: bold;
+}
